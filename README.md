@@ -15,22 +15,7 @@ Two implementations are included for learning.
 
 ---
 
-## SubExp1: Basic Routing
-
-**Concept:** Routing without lazy loading.
-
-### Features
-- React Router navigation
-- Dashboard loads immediately
-- Simple routing structure
-
-### Learning
-- Basic routing setup
-- Eager vs Lazy loading difference
-
----
-
-## SubExp2: Lazy Loading with Suspense
+## SubExp1: Lazy Loading with Suspense
 
 **Concept:** Route-based lazy loading.
 
@@ -43,6 +28,21 @@ Two implementations are included for learning.
 - Lazy loading components
 - Suspense fallback UI
 - Optimized bundle loading
+
+---
+
+## SubExp2: Basic Routing with lazy loading
+
+**Concept:** Routing without lazy loading.
+
+### Features
+- React Router navigation
+- Dashboard loads immediately
+- Simple routing structure
+
+### Learning
+- Basic routing setup
+- Eager vs Lazy loading difference
 
 ---
 
